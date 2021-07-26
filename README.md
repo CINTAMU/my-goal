@@ -1,2 +1,2 @@
-# my-goal
-Repository untuk menyimpan rencana saya kedepan
+# Tujuan saya 
+Repository ini hanyalah contoh pembelajaran tentang GIT dan untuk menyimpan rencana saya kedepan
